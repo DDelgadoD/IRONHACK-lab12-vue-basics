@@ -2,6 +2,10 @@
 
 # LAB | Vue.js Basics
 
+## My solution
+
+![](https://ddelgadod.github.io/IRONHACK-lab12-vue-basics/)
+
 ## Introduction
 
 In this lab, you'll continue exploring the basics of how to use Vue.js and will set the foundation for bigger, more complicated projects.
