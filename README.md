@@ -4,7 +4,7 @@
 
 ## My solution
 
-![Link](https://ddelgadod.github.io/IRONHACK-lab12-vue-basics/)
+[Link](https://ddelgadod.github.io/IRONHACK-lab12-vue-basics/)
 
 ## Introduction
 
