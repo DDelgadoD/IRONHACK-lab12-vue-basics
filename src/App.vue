@@ -70,6 +70,7 @@ const greetings = ref([
 const bg = ref(["bg-warning","m-5", "my-2", "p-5"]);
 
 const changeColor = () => {
+  console.log(bg.value[0])
   bg.value[0] == 'bg-danger'
   ? bg.value =["bg-warning","mx-5", "my-2", "p-5"]
   : bg.value =["bg-danger","mx-5", "my-2", "p-5"];
